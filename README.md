@@ -11,17 +11,11 @@
 ---
 
 <div align="center">
-<script type="module" src="https://get.microsoft.com/badge/ms-store-badge.bundled.js"></script>
-<ms-store-badge
-	productid="9pljpnx56hh3"
-	productname="TavrynexoAntiSpy"
-	window-mode="direct"
-	theme="auto"
-	size="large"
-	language="en-us"
-	animation="on">
-</ms-store-badge>
+  <a href="https://apps.microsoft.com/detail/9PLJPNX56HH3">
+    <img src="https://get.microsoft.com/images/en-us%20dark.svg" width="220" alt="Get it from Microsoft" />
+  </a>
 </div>
+
 
 ---
 
