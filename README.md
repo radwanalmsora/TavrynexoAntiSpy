@@ -1,8 +1,10 @@
 # TavrynexoAntiSpy 🛡️
 
 > **Enterprise-grade Windows Privacy, Security, and Anti-Telemetry Management Suite**
+> [![Get it from Microsoft Store](https://img.shields.io/badge/Microsoft_Store-Download_Now-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)](https://apps.microsoft.com/detail/9PLJPNX56HH3)
+> 
 
-[![Download from Microsoft Store](https://get.microsoft.com/badge/2b.svg)](https://apps.microsoft.com/detail/9PLJPNX56HH3)
+
 [![Platform](https://img.shields.io/badge/Platform-Windows%2010%20%2F%2011-blue?style=flat-square&logo=windows)](https://apps.microsoft.com/detail/9PLJPNX56HH3)
 [![Privacy](https://img.shields.io/badge/Privacy-Zero%20Data%20Collection-success?style=flat-square&logo=shield)](https://apps.microsoft.com/detail/9PLJPNX56HH3)
 
